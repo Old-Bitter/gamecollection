@@ -1,9 +1,3 @@
-
-   ___                   ___     _ _        _   _          
-  / __|__ _ _ __  ___   / __|___| | |___ __| |_(_)___ _ _  
- | (_ / _` | '  \/ -_) | (__/ _ \ | / -_) _|  _| / _ \ ' \ 
-  \___\__,_|_|_|_\___|  \___\___/_|_\___\__|\__|_\___/_||_|
-                                                                                                                   
 This is a test version of my game collection database project. I decided 
 to remove ESRB ratings, because I'm old and decrepit and they don't matter
 to me. I also removed developers and publishers from being their own table,
