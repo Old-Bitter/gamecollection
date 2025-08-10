@@ -1,3 +1,11 @@
+August 9th, 2025 Update
+
+The publisher/dev thing did come back to bite me. Couldn't pass normalization
+form. Added a publisher and devloper table and corresponding junction tables
+linked to the games table. This should now pass 1NF-3NF.
+
+-------------------------------------------------------------------------
+
 This is a test version of my game collection database project. I decided 
 to remove ESRB ratings, because I'm old and decrepit and they don't matter
 to me. I also removed developers and publishers from being their own table,
